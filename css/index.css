@@ -227,7 +227,7 @@ footer nav a {
 
 
 .subheader {
-    border-bottom: 1px dotted black;
+    border-bottom: 2px dotted black;
     padding-left: 2%;
 }
 
@@ -260,14 +260,17 @@ footer nav a {
 
 .sub-container button {
     margin-bottom: 3%;
-    border-radius: 20%;
-    padding: 2%;
+    border-radius: 10px;
+    padding: 2% 8%;
 }
 
 
 
 
-
+.sub-gallery {
+    margin-left: 4%;
+    margin-bottom: 3%;
+}
 
 
 
